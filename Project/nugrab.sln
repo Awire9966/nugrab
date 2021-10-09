@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nugrab", "nugrab.csproj", "{ACAB9F4A-1B18-4545-8A9F-C58E364B17CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAB9F4A-1B18-4545-8A9F-C58E364B17CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAB9F4A-1B18-4545-8A9F-C58E364B17CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAB9F4A-1B18-4545-8A9F-C58E364B17CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAB9F4A-1B18-4545-8A9F-C58E364B17CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B91E99-8072-4116-9B3D-FF8D20C8AA11}
+	EndGlobalSection
+EndGlobal
